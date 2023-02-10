@@ -41,6 +41,7 @@ To accelerate the process I am donating the following software stack already use
 Signatories:
 
 - Janusz Tylek - j@epe.si https://epe.si 09/02/2023
+- Karina Tylek - k@epe.si https://epesi.pl 09/02/2023
 - SIGN HERE
 
 > To sign make a fork and PR with your name in place of SIGN HERE, ideally followed by your e-mail, web site and date.
